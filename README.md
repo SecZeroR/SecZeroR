@@ -2,7 +2,7 @@
 
  Hi 👋
 I'm a professional with 9 years of experience in the IT field, I have knowledge in infrastructure and Development tools especially if envolve automations.
--  I’m currently working is Infrastructure Analyst - Central IT Governança
+-  I’m currently working is Infrastructure Analyst 
 -  I’m currently learning about DevOps Culture and your tools..
 -  I’m looking to collaborate on DevOps projects. 
 
