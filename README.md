@@ -1,4 +1,5 @@
-<h4 align="center"> Hi😀,  I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h4>
+<p align="center"><img width="30%" alt="Hello, I'm Anurag. I do open source!" src="assets.png" /></a></p>
+<h4 align="center"> I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h4>
 
  - 💬 Ask me about **DevOps**
  - 📄 Know about my experiences
