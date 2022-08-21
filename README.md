@@ -1,10 +1,10 @@
 <h3 align="center"> Hi😀,  I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h3>
 
-          - 💬 Ask me about **DevOps**
-          - 📄 Know about my experiences
-          -  I’m currently working as Infrastructure Analyst in <a href="https://centralit.com.br/">Central IT</a>.
-          -  I’m currently learning about DevOps Culture and your tools..
-          -  I’m looking to collaborate on DevOps projects. 
+ - 💬 Ask me about **DevOps**
+ - 📄 Know about my experiences
+     -  I’m currently working as Infrastructure Analyst in <a href="https://centralit.com.br/"> Central IT </a>
+     -  I’m currently learning about DevOps Culture and your tools..
+     -  I’m looking to collaborate on DevOps projects. 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
