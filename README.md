@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h3>
+<h3 align="center"> Hi😀,  I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h3>
 
 - 💬 Ask me about **DevOps**
 - 📄 Know about my experiences
