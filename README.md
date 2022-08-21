@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **DevOps**
 - 📄 Know about my experiences
-   -  I’m currently working as Infrastructure Analyst 
+   -  I’m currently working as Infrastructure Analyst in <a href="https://https://centralit.com.br//">Central IT</a>.
    -  I’m currently learning about DevOps Culture and your tools..
    -  I’m looking to collaborate on DevOps projects. 
 
