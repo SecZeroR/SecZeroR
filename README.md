@@ -1,7 +1,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQH16fO94ycUQg/profile-displaybackgroundimage-shrink_350_1400/0/1526697912022?e=1666828800&v=beta&t=KOTyR_VqZehXmtmfx12t-u5tM_E8CDSh64I1pKl395c">
 
  Hi 👋
-I'm a professional with 9 years of experience in the IT field, I have knowledge in infrastructure and Development tools especially if envolve automations.
+I'm a professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.
 -  I’m currently working as Infrastructure Analyst 
 -  I’m currently learning about DevOps Culture and your tools..
 -  I’m looking to collaborate on DevOps projects. 
