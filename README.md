@@ -1,4 +1,9 @@
-<p align="center"><img width="30%"  src="assets.png" /></a></p>
+<h4 align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/devgreick)](https://www.linkedin.com/in/jacksongreick/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/devgreick)](https://open.spotify.com/user/z8phq73cxg1xlvelq0yyzyba2)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jacksongreick)
+</h4>
 <h4 align="left"> I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h4>
 
  - 💬 Ask me about **DevOps**
@@ -7,36 +12,23 @@
      -  I’m currently learning about DevOps Culture and your tools..
      -  I’m looking to collaborate on DevOps projects. 
 <hr>
-<h3 align="center">Connect with me:</h1>
-<p align="center">
-<a href="https://linkedin.com/in/jacksongreick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jacksongreick" height="30" width="40" /></a>
-</p>
-<hr>
-<h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
-<p align="center">  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="vagrant" width="40" height="40"/> </a></p>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DevGreick&theme=react&border=61dafb&hide_border=true" alt="DevGreick" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=DevGreick&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGreick&hide=c%23,powershell,PHP,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=DevGreick&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<h1 align="center">Skills</h1>
+<h4 align="center">
 
-<hr>
+![Linux Badge](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Badge](https://img.shields.io/badge/Windows-003371?style=for-the-badge&logo=windows&logoColor=white)
+![Graffana Badge](https://img.shields.io/badge/-Graffana-eb6758?style=for-the-badge&logo=Graffana&logoColor=white)
+![Zabbix Badge](https://img.shields.io/badge/-Zabbix-c3272b?style=for-the-badge&logo=Graffana&logoColor=white)
+![Fortinet Badge](https://img.shields.io/badge/fortinet-d1d1c7?style=for-the-badge&logo=fortinet&logoColor=red)
+![Python Badge](https://img.shields.io/badge/python-eeeeee?style=for-the-badge&logo=python&logoColor=yellow)
+<h2 align="center">⚡ Stats ⚡</h2>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgreick&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgreick&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgreick&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgreick&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=devgreick&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 
 
              
