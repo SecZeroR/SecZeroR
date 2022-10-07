@@ -21,6 +21,7 @@
 ![Zabbix Badge](https://img.shields.io/badge/-Zabbix-c3272b?style=for-the-badge&logo=Graffana&logoColor=white)
 ![Fortinet Badge](https://img.shields.io/badge/fortinet-d1d1c7?style=for-the-badge&logo=fortinet&logoColor=red)
 ![Python Badge](https://img.shields.io/badge/python-eeeeee?style=for-the-badge&logo=python&logoColor=yellow)
+![Docker Badge](https://img.shields.io/badge/docker-eeeeee?style=for-the-badge&logo=docker&logoColor=3d85c6)
 <h2 align="center">⚡ Stats ⚡</h2>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgreick&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgreick&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgreick&theme=nord_dark) |
