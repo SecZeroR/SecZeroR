@@ -1,8 +1,8 @@
 <h4 align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/devgreick)](https://www.linkedin.com/in/jacksongreick/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/devgreick)](https://open.spotify.com/user/z8phq73cxg1xlvelq0yyzyba2)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jacksongreick)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/devgreick)](https://open.spotify.com/user/z8phq73cxg1xlvelq0yyzyba2)
 </h4>
 <h4 align="left"> I'm a Brazilian professional with 9 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h4>
 
