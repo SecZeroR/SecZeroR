@@ -17,7 +17,7 @@
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Badge](https://img.shields.io/badge/Windows-003371?style=for-the-badge&logo=windows&logoColor=white)
-![Graffana Badge](https://img.shields.io/badge/-Graffana-eb6758?style=for-the-badge&logo=Graffana&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/-Grafana-f0f8ff?style=for-the-badge&logo=Grafana&logoColor=orange)
 ![Zabbix Badge](https://img.shields.io/badge/-Zabbix-c3272b?style=for-the-badge&logo=Graffana&logoColor=white)
 ![Fortinet Badge](https://img.shields.io/badge/fortinet-d1d1c7?style=for-the-badge&logo=fortinet&logoColor=red)
 ![Python Badge](https://img.shields.io/badge/python-eeeeee?style=for-the-badge&logo=python&logoColor=yellow)
