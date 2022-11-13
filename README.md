@@ -8,7 +8,6 @@
 
  - 💬 Ask me about **DevSecOps**
  - 📄 Know about my experiences
-    
      -  I’m currently learning about DevSecOps Culture and its tools..
      -  I’m looking to collaborate on DevSecOps projects. 
 <hr>
