@@ -6,7 +6,7 @@
 </h4>
 <h4 align="left"> I'm a Brazilian professional with 11 years of experience in the IT field, I have knowledge in Infrastructure and Development tools especially if envolve automations.</h4>
 
- - 💬 Ask me about **DevOps**
+ - 💬 Ask me about **DevSecOps**
  - 📄 Know about my experiences
      -  I’m currently working as Infrastructure Analyst in <a href="https://centralit.com.br/"> Central IT </a>
      -  I’m currently learning about DevOps Culture and its tools..
