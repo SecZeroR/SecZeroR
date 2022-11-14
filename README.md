@@ -23,13 +23,7 @@
 ![Docker Badge](https://img.shields.io/badge/docker-eeeeee?style=for-the-badge&logo=docker&logoColor=3d85c6)
 ![Check Point Badge](https://img.shields.io/badge/Check-Point-d1d1c7?style=for-the-badge&logo=checkpoint&logoColor=red)
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SecZeroR&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SecZeroR&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SecZeroR&theme=nord_dark) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SecZeroR&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SecZeroR&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SecZeroR&theme=nord_dark) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SecZeroR&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SecZeroR&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
-
-
-
-
-             
