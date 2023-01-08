@@ -19,7 +19,6 @@
 ![Grafana Badge](https://img.shields.io/badge/-Grafana-ffffff?style=for-the-badge&logo=Grafana&logoColor=orange)
 ![Zabbix Badge](https://img.shields.io/badge/-Zabbix-c3272b?style=for-the-badge&logo=Graffana&logoColor=white)
 ![Fortinet Badge](https://img.shields.io/badge/fortinet-d1d1c7?style=for-the-badge&logo=fortinet&logoColor=red)
-![Forcepoint Badge](https://img.shields.io/badge/Forcepoint-ffffff?style=for-the-badge&logo=&logoColor=red) 
 ![Python Badge](https://img.shields.io/badge/python-eeeeee?style=for-the-badge&logo=python&logoColor=yellow)
 ![Docker Badge](https://img.shields.io/badge/docker-eeeeee?style=for-the-badge&logo=docker&logoColor=3d85c6)
 ![Check Point Badge](https://img.shields.io/badge/Check-Point-CC4482?style=for-the-badge&logo=checkpoint&logoColor=red)
